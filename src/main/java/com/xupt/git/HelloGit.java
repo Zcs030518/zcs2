@@ -15,5 +15,6 @@ public class HelloGit {
         System.out.println("create branch 01");
         System.out.println("create branch 02");
         System.out.println("update online");
+        System.out.println("Git clone");
     }
 }
